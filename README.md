@@ -1,1 +1,1 @@
-## Practicing streamlit
+## Practicing Streamlit
